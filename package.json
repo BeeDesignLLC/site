@@ -1,0 +1,13 @@
+{
+  "name": "bee-design-site",
+  "scripts": {
+    "start": "next",
+    "build": "next build && next export",
+    "now-start": "next start"
+  },
+  "dependencies": {
+    "next": "^3.0.6",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}

@@ -1,5 +1,7 @@
 # Bee Design Website
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/BeeDesignLLC/site.svg)](https://greenkeeper.io/)
+
 https://bee.design
 
 ```bash
